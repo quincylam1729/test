@@ -1,3 +1,2 @@
 Helllo
-No
 Yes
